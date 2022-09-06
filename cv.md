@@ -30,3 +30,13 @@ My goal is to gain knowledge in the field of front-end development.
 + REACT DEVELOPER
 * Udemy
 **********
+### Experience
+* FRONT-END ASSISTANT
++ BEETROOT INTERSHIP
+* FRONT-END DEVELOPER
++ FREELANCE
+*************
+### Languages
+* Russian
+* Eanglish
+* Ukranian
